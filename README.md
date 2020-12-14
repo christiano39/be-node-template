@@ -4,6 +4,7 @@
 - run ```npm i -D```
 - for development: ```npm run server```
 - or ```npm start```
+- to run tests (no tests included in template), ```npm test```
 
 ## Packages
 The following packages are included in this template:
