@@ -14,10 +14,12 @@
 - copy ```.env.sample``` into ```.env``` and rename ```SERVER_NAME```
 - install Docker
 - run ```docker-compose up -d```
+- PGAdmin is available at localhost:5050
 
 ## Packages
 The following packages are included in this template:
 - [cors](https://www.npmjs.com/package/cors)
+- [dotenv](https://www.npmjs.com/package/dotenv)
 - [express](https://www.npmjs.com/package/express)
 - [helmet](https://www.npmjs.com/package/helmet)
 - [knex](https://www.npmjs.com/package/knex)
